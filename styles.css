@@ -5,6 +5,16 @@
     list-style: none
 }
 
+:root{
+    --color-pink: #ae276a;
+    --border-radius-md: 7px;
+    --frontsize: 18px;
+    --trans: all .4s ease-in-out;
+    --margin-sm: 5px
+}
+
 body{
+    background-color: #191D2B;
     font-family: 'Nunito', sans-serif;
 }
+
